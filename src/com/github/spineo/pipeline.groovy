@@ -1,5 +1,0 @@
-def runPipeline {
-
-}
-
-return this;
