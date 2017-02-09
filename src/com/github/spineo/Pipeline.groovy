@@ -2,7 +2,12 @@ package com.github.spineo;
 
 class Pipeline {
 
-  def runPipeline {
+  def setNode {
     
+    node {
+      stage 'Initialization'
+      echo "Initialization..."
+      
+    }
   }
 }
